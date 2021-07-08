@@ -1,2 +1,2 @@
 # dmenu
-My dmenu fork
+My dmenu fork (mainly for my quick access).
